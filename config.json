@@ -1,0 +1,8 @@
+{
+    "port": 8080,
+    "health_check_enabled": true,
+    "health_check_interval": 30,
+    "listen_addr": ":9000",
+    "redis_addr": "192.168.0.114:6379",
+    "collector_addr": "localhost:4317"
+} 
